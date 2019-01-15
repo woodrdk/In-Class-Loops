@@ -13,7 +13,7 @@ using namespace std;
 int main() {
 	int a = 2;
 
-	if (a = 3) cout << "a is 3" << endl;
+	if (a == 2) cout << "a is not 3" << endl;
 
 	system("pause");	// press key to continue
 	return 0;
